@@ -1,0 +1,81 @@
+
+        body {
+	background-image: linear-gradient(to right top, #84469d, #a0419b, #bb3b96, #d4348c, #e9307f);
+	background-repeat: repeat;
+	height: 100%;
+            
+}   
+        .raduis {
+	background: white;
+	padding: 10px 10px;
+	border-radius: 22px;
+}
+        .one
+        {
+            font-weight: bold;
+            text-transform: uppercase;
+            color: white;
+            font-family: sans-serif;
+        }
+        .two {
+            float: right;
+        }
+        .one,
+        .two {
+            display: inline-block;
+        }
+        .one {
+            text-align: left;
+        }
+        .two {
+            text-align: right;
+        }
+        .one_hundred {
+            width: 100%;
+        }
+        .fifty_percent {
+	width: 27%;
+	margin: 0 auto;
+}
+        .fifty_percent button {
+	width: 49%;
+	padding: 10px;
+}
+.btn1 {
+	background: transparent;
+	border: 0px;
+	color: white;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+
+.btn2 {
+	background: transparent;
+	border: 2px solid white;
+	padding: 7px 25px;
+	color: white;
+	font-weight: bold;
+	font-size: 14px;
+	border-radius: 17px;
+}
+
+.btn_three,
+.btn_four{
+	border: 2px solid #bc0044;
+    background: #ee0076;
+    color: white;
+}
+
+p small {
+	color: white;
+	text-transform: uppercase;
+	font-size: 10px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.white , .white a
+{
+    color: white;
+}
